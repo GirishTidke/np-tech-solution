@@ -33,17 +33,17 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'hello@nptech.com',
+      value: 'nptechsolution@gmail.com',
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '+1 (555) 123-4567',
+      value: '8055223358',
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'San Francisco, CA',
+      value: 'Nagpur, India',
     },
   ];
 
