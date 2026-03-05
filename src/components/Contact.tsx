@@ -1,4 +1,7 @@
+// updated contact popup and whatsapp buttongit status
 import { useState, useRef } from "react";
+
+// import { useState, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Mail, Phone, MapPin, Send, CheckCircle } from "lucide-react";
 import emailjs from "@emailjs/browser";
